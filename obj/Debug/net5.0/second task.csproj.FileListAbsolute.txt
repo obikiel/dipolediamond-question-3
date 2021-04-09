@@ -1,0 +1,16 @@
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\second task\obj\Debug\net5.0\second task.csprojAssemblyReference.cache
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\second task\obj\Debug\net5.0\second task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\second task\obj\Debug\net5.0\second task.AssemblyInfoInputs.cache
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\second task\obj\Debug\net5.0\second task.AssemblyInfo.cs
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\second task\obj\Debug\net5.0\second task.csproj.CoreCompileInputs.cache
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\second task\bin\Debug\net5.0\second task.exe
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\second task\bin\Debug\net5.0\second task.deps.json
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\second task\bin\Debug\net5.0\second task.runtimeconfig.json
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\second task\bin\Debug\net5.0\second task.runtimeconfig.dev.json
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\second task\bin\Debug\net5.0\second task.dll
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\second task\bin\Debug\net5.0\ref\second task.dll
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\second task\bin\Debug\net5.0\second task.pdb
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\second task\obj\Debug\net5.0\second task.dll
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\second task\obj\Debug\net5.0\ref\second task.dll
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\second task\obj\Debug\net5.0\second task.pdb
+C:\Users\EZEKIEL\Documents\PROGRAMMING TUTORIAL VIDEOS\second task\obj\Debug\net5.0\second task.genruntimeconfig.cache
